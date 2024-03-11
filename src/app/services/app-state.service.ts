@@ -21,7 +21,7 @@ export class AppStateService {
     token :"",
     status :"",
     errorMessage :"",
-    openaiKey:"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"
+    openaiKey:""
   }
   constructor() { }
 
